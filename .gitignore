@@ -5,3 +5,6 @@ config.toml
 secrets.toml
 .DS_Store
 *.zip
+.qodo
+.vscode
+models/*
